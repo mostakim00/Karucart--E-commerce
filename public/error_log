@@ -1,0 +1,2 @@
+[21-Dec-2022 08:46:04 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::ContactPage() in /home/prosobns/ecomm.proshenjit.info/app/Http/Controllers/Frontend/FrontendController.php on line 35
+[21-Dec-2022 08:46:20 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::ContactPage() in /home/prosobns/ecomm.proshenjit.info/app/Http/Controllers/Frontend/FrontendController.php on line 35
